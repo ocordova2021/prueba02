@@ -1,7 +1,7 @@
 $(document).ready(function() {
     
       $('#summernote').summernote({
-      placeholder: 'Hello stand alone ui',
+      placeholder: 'Hello stand ne ui',
       tabsize: 2,
       height: 120,
       toolbar: [

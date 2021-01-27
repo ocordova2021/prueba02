@@ -24,7 +24,7 @@ function activar_Arm(id){
 
 function calcular_population(){
     
-    var opcion1=document.getElementById('opc1').checked;
+    var opcion0=document.getElementById('opc1').checked;
     var opcion2=document.getElementById('opc2').checked;
     var opcion3=document.getElementById('opc3').checked;
     var resultado=Math.pow(5,2)
