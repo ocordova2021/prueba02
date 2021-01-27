@@ -167,7 +167,7 @@
                 <option value="1">Activo</option>
                 <option value="-1">Inactivo</option>
             </select>
-            <p class="mt-1"><b>Autor</b> </p><br>
+            <p class="mt-1"><b>Autor activo</b> </p><br>
         
     </div>
 
