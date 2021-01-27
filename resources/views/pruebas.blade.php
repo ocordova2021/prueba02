@@ -168,6 +168,7 @@
                 <option value="-1">Inactivo</option>
             </select>
             <p class="mt-1"><b>Autor activo</b> </p><br>
+            <p>agrego un comtenido</p>
         
     </div>
 
