@@ -169,6 +169,7 @@
             </select>
             <p class="mt-1"><b>Autor activo</b> </p><br>
             <p>agrego un comtenido</p>
+            <p>cargaos otro documentos
         
     </div>
 
