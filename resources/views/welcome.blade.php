@@ -86,6 +86,15 @@
 
                 <div class="links">
                     <a href="https://laravel.com/docs">docuemntos</a>
+                      <a href="https://laravel-news.com">modificado</a>
+                        <a href="https://laravel-news.com">modificado</a>
+                          <a href="https://laravel-news.com">modificado</a>
+                            <a href="https://laravel-news.com">modificado</a>
+                              <a href="https://laravel-news.com">modificado</a>
+                                <a href="https://laravel-news.com">modificado</a>
+                                  <a href="https://laravel-news.com">modificado</a>
+                                    <a href="https://laravel-news.com">modificado</a>
+                                      <a href="https://laravel-news.com">modificado</a>
                     <a href="https://laracasts.com">modificado</a>
                     <a href="https://laravel-news.com">modificado</a>
                     <a href="https://blog.laravel.com">Blog</a>
