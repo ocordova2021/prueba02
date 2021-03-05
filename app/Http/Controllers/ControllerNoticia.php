@@ -46,7 +46,7 @@ class ControllerNoticia extends Controller
      */
     public function show($id)
     {
-        //
+        return $id;
     }
 
     /**
